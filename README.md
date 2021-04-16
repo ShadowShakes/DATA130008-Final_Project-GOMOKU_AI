@@ -1,3 +1,4 @@
+# DATA130008-GOMOKU_AI
 This project is the final project of class "Artificial Intelligence" in School of Data Science, Fudan University (2020 Autumn). It is designed to play a GOMOKU game automatically.
 The project is finished by Shaohan Chen and Yuanzhu Zhan, with some reference from other GOMOKU projects but independent analysis by ourselves.
 The final competing version of our GOMOKU AI reached 1230 points on ranking list.
